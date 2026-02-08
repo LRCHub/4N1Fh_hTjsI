@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "カーステレオから",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-08T14:22:34.497972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カーステレオから",
+      "artist": "Ayano Kaneko",
+      "has_synced": false,
+      "path": "select/01_カーステレオから_Ayano_Kaneko.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カーステレオから",
+      "artist": "Kaneko Ayano",
+      "has_synced": false,
+      "path": "select/02_カーステレオから_Kaneko_Ayano.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カーステレオから",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/03_カーステレオから_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カーステレオから",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/04_カーステレオから_カネコアヤノ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カーステレオから",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/05_カーステレオから_カネコアヤノ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カーステレオから",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_カーステレオから_カネコアヤノ.txt"
+    }
+  ]
+}
